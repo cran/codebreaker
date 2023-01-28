@@ -1,6 +1,6 @@
 Package: codebreaker
 Title: Retro Logic Game
-Version: 0.0.2
+Version: 1.0.1
 Authors@R: 
     person(given = "Roland",
            family = "Krasser",
@@ -12,14 +12,13 @@ Description: Logic game in the style of the early 1980s home computers
     Can you break the code?
 License: GPL-3
 Encoding: UTF-8
-LazyData: true
 URL: https://github.com/rolkra/codebreaker
 Imports: beepr, cli
-RoxygenNote: 7.1.1
+RoxygenNote: 7.2.1
 Suggests: testthat
 NeedsCompilation: no
-Packaged: 2020-11-07 18:59:27 UTC; rolkra
+Packaged: 2023-01-28 09:34:06 UTC; rolkra
 Author: Roland Krasser [aut, cre]
 Maintainer: Roland Krasser <roland.krasser@gmail.com>
 Repository: CRAN
-Date/Publication: 2020-11-12 09:50:02 UTC
+Date/Publication: 2023-01-28 10:10:05 UTC

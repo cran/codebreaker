@@ -1,6 +1,10 @@
+# codebreaker 1.0.0
+
+* Fixes
+
 # codebreaker 0.0.2
 
-* Fix mis-spelled words in DESCRIPTION
+* Fix misspelled words in DESCRIPTION
 * Fix github URL
 
 # codebreaker 0.0.1
